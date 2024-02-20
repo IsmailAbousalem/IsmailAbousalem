@@ -2,7 +2,11 @@
 
 Here You Will Find A Technical Overview of Me!
 
-I am currently a Software Developer Intern @ElementOne Digital. I do the project management, gathering project requirements for the development team based on client needs. I am currently re-branding the company webpage using Webflow and custon HTML & CSS.
+- I am currently a Software Developer Intern @ElementOne Digital. I do the project management, gathering project requirements for the development team based on client needs. I am currently re-branding the company webpage using Webflow and custon HTML & CSS.
+
+- I am an INIT Build team member @FIU working on our Web Development projec; an online collaboration platform for computer science students where they create teams based on the skills that they need to build projects that will change their future!
+
+- In my "Projects" repository you can view my project "Connect!", a social media application 
 
 
 | Programming Languanges
