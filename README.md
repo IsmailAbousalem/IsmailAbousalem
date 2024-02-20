@@ -6,7 +6,7 @@ Here You Will Find A Technical Overview of Me!
 
 - I am an INIT Build team member @FIU working on our Web Development projec; an online collaboration platform for computer science students where they create teams based on the skills that they need to build projects that will change their future!
 
-- In my "Projects" repository you can view my project "Connect!", a social media application 
+- In my "Projects" repository you can view my project "Connect!". Connect is a platform to post your thoughts, discuss your feelings, and Connect with others. Feel free to register an account and let your thoughts be known!
 
 
 | Programming Languanges
