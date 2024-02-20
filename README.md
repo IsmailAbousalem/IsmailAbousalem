@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=500&color=4FCD3F&background=FFFFFF00&multiline=true&random=false&width=435&height=150&lines=Hello+There!+I'm+Ismail+%3A);Welcome+to+my+GitHub!;Nice+to+meet+you+%F0%9F%A4%9D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=500&color=4FCD3F&background=FFFFFF00&multiline=true&random=false&width=435&height=100&lines=Hello+There!+I'm+Ismail+%3A);Welcome+to+my+GitHub!;Nice+to+meet+you+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
 | Programming Languanges
 
