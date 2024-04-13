@@ -6,6 +6,8 @@ Here You Will Find A Technical Overview of Me!
 
 - I am an INIT Build team member @FIU working on our Web Development project, DevBuds! An online collaboration platform for computer science students where they create teams based on the skills they need to build projects that will change their future!
 
+Want to see it in action? Go to "devbuds.org" and take a look for yourself 👀
+
 - In my "Projects" repository you can view my project "Connect!". Connect is a platform to post your thoughts, discuss your feelings, and Connect with others. Feel free to register an account and let your thoughts be known!
 
 
