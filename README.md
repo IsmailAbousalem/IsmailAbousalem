@@ -7,12 +7,11 @@ Here You Will Find A Technical Overview of Me!
 - I am an INIT Build team member @FIU working on our Web Development project, DevBuds! An online collaboration platform for computer science students where they create teams based on the skills they need to build projects that will change their future!
 
   Want to see it in action? Go to "devbuds.org" and take a look for yourself 👀
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Connect! is my small social media application I created. It is an online platform to post your thoughts, discuss your feelings, and Connect with others. Feel free to register an account and let your thoughts be known! - connectapp.vercel.app
   
   **source code can be found in my public repositories "merng-server" and "merng-client"**
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Programming Languanges
 
 ![image](https://github.com/IsmailAbousalem/IsmailAbousalem/assets/100754446/1bd1cb82-87af-4016-9550-70513ce4ee72) ![image](https://github.com/IsmailAbousalem/IsmailAbousalem/assets/100754446/4985edee-a934-45aa-91a6-d5794c0d3aec) ![image](https://github.com/IsmailAbousalem/IsmailAbousalem/assets/100754446/7cab0615-3ede-40a2-8028-b6a8ea9e0806) ![image](https://github.com/IsmailAbousalem/IsmailAbousalem/assets/100754446/49f9d75e-0f83-4dc5-a542-ed22586459b2)
