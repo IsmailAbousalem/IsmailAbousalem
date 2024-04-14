@@ -9,7 +9,7 @@ Here You Will Find A Technical Overview of Me!
   Want to see it in action? Go to "devbuds.org" and take a look for yourself 👀
 
 - Connect! is my small social media application I created. It is an online platform to post your thoughts, discuss your feelings, and Connect with others. Feel free to register an account and let your thoughts be known! - connectapp.vercel.app
-- 
+  
 **source code can be found in my public repositories "merng-server" and "merng-client"**
 
 
