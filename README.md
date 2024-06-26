@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=500&color=F75C7E&background=FFFFFF00&multiline=true&random=false&width=435&height=100&lines=Hello+There!+I'm+Ismail+%3A);Welcome+to+my+GitHub!;Nice+to+meet+you+%F0%9F%A4%9D" alt="Typing SVG" /></a> 
 
-Here You Will Find A Technical Overview of Me!
+<h3 align="left">Here You Will Find A Technical Overview of Me!</h3>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Experience:</h3>
 
