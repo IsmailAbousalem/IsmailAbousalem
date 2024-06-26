@@ -20,8 +20,122 @@ Here You Will Find A Technical Overview of Me!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailabousalem&show_icons=true&locale=en&layout=compact" alt="ismailabousalem" /></p>
+<h3 align="left">Languages:</h3>
 
+<table>
+  <thead>
+    <tr>
+      <th>Java</th>
+      <th>JavasScript</th>
+      <th>Python3</th>
+      <th>HTML5</th>
+      <th>CSS3</th>
+    </tr>
+  </thead>
+  <body>
+    <tr>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="55" height="55" style="max-width: 100%;"></td>
+    </tr>
+  </body>
+</table>
+
+
+
+<h3 align="left">Frameworks & Libraries:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>React</th>
+      <th>NodeJS</th>
+      <th>PyTorch</th>
+      <th>OpenCV</th>
+      <th>MatPlotLib</th>
+      <th>Pandas</th>
+      <th>SciKitLearn</th>
+      <th>NumPy</th>
+      <th>Spring</th>
+      <th>Mongoose</th>
+      <th>Express</th>
+    </tr>
+  </thead>
+  <body>
+    <tr>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+    </tr>
+  </body>
+</table>
+
+<h3 align="left">Databases:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>MySQL</th>
+      <th>GraphQL</th>
+      <th>MongoDB</th>
+    </tr>
+  </thead>
+  <body>
+    <tr>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+    </tr>
+  </body>
+</table>
+      
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailabousalem&show_icons=true&locale=en&layout=compact" alt="ismailabousalem" /></p>
 
 <!--
 | Programming Languanges
