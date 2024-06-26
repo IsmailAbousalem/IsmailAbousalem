@@ -6,14 +6,15 @@ Here You Will Find A Technical Overview of Me!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - I am an INIT Build team member @FIU working on our Web Development project, DevBuds! An online collaboration platform for computer science students where they create teams based on the skills they need to build projects that will change their future!
 
-  Want to see it in action? Go to "devbuds.org" and take a look for yourself 👀
+- Want to see it in action? Go to [devbuds.org](https://www.devbuds.org/) and take a look for yourself 👀
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Connect! is my small social media application I created. It is an online platform to post your thoughts, discuss your feelings, and Connect with others. Feel free to register an account and let your thoughts be known! - connectapp.vercel.app
-
-  **App is currently down and non-functional**
-
-  **source code can be found in my public repositories "merng-server" and "merng-client"**
+- I developed a Gesture-Based Mouse, an AI system that tracks hand movements to control the cursor and perform clicks, providing a touch-less interaction experience. Utilizing Python, cv2, Mediapipe, NumPy, and PyAutoGUI, the project achieves precise hand tracking and mapping. The system leverages advanced finger position detection algorithms, allowing the pointer finger to seamlessly control the mouse cursor with high accuracy and responsiveness. This innovative solution offers an intuitive and efficient alternative to traditional mouse control, enhancing user interaction.
+  
+- Go check my respository for it! https://github.com/IsmailAbousalem/HandTrackingMouse 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- I am also working on another AI Project to detect American Sign Language (ASL) signs/symbols and translate them into text. Currently working on training the AI to learn the ASL alphabet, then will train it to learn ASL words (involving different hand gestures and all)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 | Programming Languanges
 
 ![image](https://github.com/IsmailAbousalem/IsmailAbousalem/assets/100754446/1bd1cb82-87af-4016-9550-70513ce4ee72) ![image](https://github.com/IsmailAbousalem/IsmailAbousalem/assets/100754446/4985edee-a934-45aa-91a6-d5794c0d3aec) ![image](https://github.com/IsmailAbousalem/IsmailAbousalem/assets/100754446/7cab0615-3ede-40a2-8028-b6a8ea9e0806) ![image](https://github.com/IsmailAbousalem/IsmailAbousalem/assets/100754446/49f9d75e-0f83-4dc5-a542-ed22586459b2)
