@@ -63,7 +63,6 @@ Here You Will Find A Technical Overview of Me!
       <th>NumPy</th>
       <th>Spring</th>
       <th>Mongoose</th>
-      <th>Express</th>
     </tr>
   </thead>
   <body>
@@ -97,9 +96,6 @@ Here You Will Find A Technical Overview of Me!
       </td>
       <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
-      </td>
-      <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
       </td>
     </tr>
   </body>
