@@ -12,9 +12,13 @@ https://ismailabousalem.netlify.app/
 
 <h3 align="left">Experience:</h3>
 
-- I am currently a Software Developer Intern @ElementOne Digital. I do the project management, gathering project requirements for the development team based on client needs. I am currently re-branding the company webpage using Webflow and custom HTML & CSS.
-  
-- I am also a Contracted Software Engineer for Luraph providing DevOps, codebase maintenance, and optimization using React and front-end languages and technologies.
+I am a Software Engineer at Accenture Federal Services, contributing to application development initiatives within the federal space. My work primarily involves PL/SQL development and database-driven application engineering, with a strong focus on maintainability, performance, and secure implementation standards.
+
+I enjoy building reliable, scalable systems—and I take pride in clean logic, thoughtful design, and solutions that support real users and operational needs. In past software roles I worked across web development, DevOps support, and product iteration, but today my focus has shifted firmly into software engineering, backend logic, and database-centric workflows.
+
+My goal is to continue growing within large-scale system architecture, database engineering, and application performance optimization—while building a long-term career in high-impact technology spaces.
+
+📩 Contact: ia.abousalem@gmail.com
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Projects:</h3>
 
